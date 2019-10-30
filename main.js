@@ -1,6 +1,6 @@
 'use strict'
 
-const datas = '../data/statements.json';
+const datas = './statements.json';
 //créer une div pour les énoncés
 const currentDiv = document.getElementById('current-div');
 let newArticle = document.createElement('article');
