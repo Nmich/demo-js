@@ -1,0 +1,901 @@
+[{
+        "title": "1",
+        "subtitle": "Write a JavaScript program to display the current day and time in the following format.",
+        "content": "Sample Output : Today is : Tuesday. \r Current time is : 10 PM : 30 : 38",
+        "image": ""
+    },
+    {
+        "title": "2",
+        "subtitle": " Write a JavaScript program to print the contents of the current window.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "3",
+        "subtitle": "Write a JavaScript program to get the current date.",
+        "content": "Expected Output :\rmm-dd-yyyy, mm/dd/yyyy\ror dd-mm-yyyy, dd/mm/yyyy",
+        "image": ""
+    },
+    {
+        "title": "4",
+        "subtitle": "Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7. ",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "5",
+        "subtitle": "Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "6",
+        "subtitle": "Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "7",
+        "subtitle": "Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "8",
+        "subtitle": "Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message \"Good Work\" otherwise display a message \"Not matched\".",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "9",
+        "subtitle": "Write a JavaScript program to calculate days left until next Christmas. ",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "10",
+        "subtitle": "Write a JavaScript program to calculate multiplication and division of two numbers (input from user)",
+        "content": "",
+        "image": "https://www.w3resource.com/w3r_images/sample-form.png"
+    },
+    {
+        "title": "11",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "12",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "13",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "14",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "15",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "16",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "17",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "18",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "19",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "20",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "21",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "22",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "23",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "24",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "25",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "26",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "27",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "28",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "29",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "30",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "31",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "32",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "33",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "34",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "35",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "36",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "37",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "38",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "39",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "40",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "41",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "42",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "43",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "44",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "45",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "46",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "47",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "48",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "49",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "50",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "51",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "52",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "53",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "54",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "55",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "56",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "57",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "58",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "59",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "60",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "61",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "62",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "63",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "64",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "65",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "66",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "67",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "68",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "69",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "70",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "71",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "72",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "73",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "74",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "75",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "76",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "77",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "78",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "79",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "80",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "81",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "82",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "83",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "84",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "85",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "86",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "87",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "88",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "89",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "90",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "91",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "92",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "93",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "94",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "95",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "96",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "97",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "98",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "99",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "100",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "101",
+        "subtitle": "Write a JavaScript program to display the current day and time in the following format.",
+        "content": "Sample Output : Today is : Tuesday. \r Current time is : 10 PM : 30 : 38",
+        "image": ""
+    },
+    {
+        "title": "102",
+        "subtitle": " Write a JavaScript program to print the contents of the current window.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "103",
+        "subtitle": "Write a JavaScript program to get the current date.",
+        "content": "Expected Output :\rmm-dd-yyyy, mm/dd/yyyy\ror dd-mm-yyyy, dd/mm/yyyy",
+        "image": ""
+    },
+    {
+        "title": "104",
+        "subtitle": "Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7. ",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "105",
+        "subtitle": "Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "106",
+        "subtitle": "Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "107",
+        "subtitle": "Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "108",
+        "subtitle": "Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message \"Good Work\" otherwise display a message \"Not matched\".",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "109",
+        "subtitle": "Write a JavaScript program to calculate days left until next Christmas. ",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "110",
+        "subtitle": "Write a JavaScript program to calculate multiplication and division of two numbers (input from user)",
+        "content": "",
+        "image": "https://www.w3resource.com/w3r_images/sample-form.png"
+    },
+    {
+        "title": "111",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "112",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "113",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "114",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "115",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "116",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "117",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "118",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "119",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "120",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "121",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "122",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "123",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "124",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "125",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "126",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "127",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "128",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "129",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "130",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "131",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "132",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "133",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "134",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "135",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "136",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "137",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "138",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "139",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "140",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "141",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "142",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "143",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "144",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "145",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "146",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "147",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "148",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "149",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    },
+    {
+        "title": "150",
+        "subtitle": "",
+        "content": "",
+        "image": ""
+    }
+]
