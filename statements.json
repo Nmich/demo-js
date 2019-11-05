@@ -2,900 +2,900 @@
         "title": "1",
         "subtitle": "Write a JavaScript program to display the current day and time in the following format.",
         "content": "Sample Output : Today is : Tuesday. \r Current time is : 10 PM : 30 : 38",
-        "image": ""
+        "image_url_url": ""
     },
     {
         "title": "2",
         "subtitle": " Write a JavaScript program to print the contents of the current window.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "3",
         "subtitle": "Write a JavaScript program to get the current date.",
         "content": "Expected Output :\rmm-dd-yyyy, mm/dd/yyyy\ror dd-mm-yyyy, dd/mm/yyyy",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "4",
         "subtitle": "Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7. ",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "5",
         "subtitle": "Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "6",
         "subtitle": "Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "7",
         "subtitle": "Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "8",
         "subtitle": "Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message \"Good Work\" otherwise display a message \"Not matched\".",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "9",
         "subtitle": "Write a JavaScript program to calculate days left until next Christmas. ",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "10",
         "subtitle": "Write a JavaScript program to calculate multiplication and division of two numbers (input from user)",
         "content": "",
-        "image": "https://www.w3resource.com/w3r_images/sample-form.png"
+        "image_url": "https://www.w3resource.com/w3r_image_urls/sample-form.png"
     },
     {
         "title": "11",
-        "subtitle": "",
-        "content": "",
-        "image": ""
+        "subtitle": "Write a JavaScript program to convert temperatures to and from Celsius, Fahrenheit.",
+        "content": "[ Formula : c/5 = (f-32)/9 [ where c = temperature in Celsius and f = temperature in Fahrenheit ]\n Expected Output :\n 60°C is 140 °F\n 45°F is  7.222222222222222°C ",
+        "image_url": ""
     },
     {
         "title": "12",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to get the website URL (loading page).",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "13",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript exercise to create a variable using a user-defined name.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "14",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript exercise to get the extension of a filename.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "15",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to get the difference between a given number and 13, if the number is greater than 13 return double the absolute difference.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "16",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to compute the sum of the two given integers. If the two values are same, then returns triple their sum.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "17",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to compute the absolute difference between a specified number and 19. Returns triple their absolute difference if the specified number is greater than 19.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "18",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "19",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check a given integer is within 20 of 100 or 400.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "20",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check from two given integers, if one is positive and one is negative.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "21",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to create a new string adding \"Py\" in front of a given string. If the given string begins with \"Py\" then return the original string.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "22",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to remove a character at the specified position of a given string and return the new string.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "23",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to create a new string from a given string changing the position of first and last characters. The string length must be greater than or equal to 1.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "24",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to create a new string from a given string with the first character of the given string added at the front and back.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "25",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program check if a given positive number is a multiple of 3 or a multiple of 7.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "26",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to create a new string from a given string taking the last 3 characters and added at both the front and back. The string length must be 3 or more.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "27",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check if a string starts with 'Java' and false otherwise.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "28",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check if two given integer values are in the range 50..99 (inclusive). Return true if either of them are in the said range.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "29",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check if three given integer values are in the range 50..99 (inclusive). Return true if one or more of them are in the said range.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "30",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check if a string \"Script\" presents at 5th (index 4) position in a given string, if \"Script\" presents in the string return the string without \"Script\" otherwise return the original one.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "31",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to find the largest of three given integers.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "32",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to find a value which is nearest to 100 from two different given integer values.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "33",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check if two numbers are in range 40..60 or in the range 70..100 inclusive.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "34",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to find the larger number from the two given positive integers, the two numbers are in the range 40..60 inclusive.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "35",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check a given string contains 2 to 4 numbers of a specified character.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "36",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check if the last digit of the three given positive integers is same.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "37",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to create new string with first 3 characters are in lower case from a given string. If the string length is less than 3 convert all the characters in upper case.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "38",
-        "subtitle": "",
-        "content": "",
-        "image": ""
+        "subtitle": "Write a JavaScript program to check the total marks of a student in various examinations.",
+        "content": "The student will get A+ grade if the total marks are in the range 89..100 inclusive, if the examination is \"Final-exam.\" the student will get A+ grade and total marks must be greater than or equal to 90. Return true if the student get A+ grade or false otherwise.",
+        "image_url": ""
     },
     {
         "title": "39",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to compute the sum of the two given integers, If the sum is in the range 50..80 return 65 other wise return 80.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "40",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check from two given integers if either one is 8 or their sum or difference is 8.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "41",
-        "subtitle": "",
+        "subtitle": "Write a JavaScript program to check three given numbers, if the three numbers are same return 30 otherwise return 20 and if two numbers are same return 40.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "42",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "43",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "44",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "45",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "46",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "47",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "48",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "49",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "50",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "51",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "52",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "53",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "54",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "55",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "56",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "57",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "58",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "59",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "60",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "61",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "62",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "63",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "64",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "65",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "66",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "67",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "68",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "69",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "70",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "71",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "72",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "73",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "74",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "75",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "76",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "77",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "78",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "79",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "80",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "81",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "82",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "83",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "84",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "85",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "86",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "87",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "88",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "89",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "90",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "91",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "92",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "93",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "94",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "95",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "96",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "97",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "98",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "99",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "100",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "101",
         "subtitle": "Write a JavaScript program to display the current day and time in the following format.",
         "content": "Sample Output : Today is : Tuesday. \r Current time is : 10 PM : 30 : 38",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "102",
         "subtitle": " Write a JavaScript program to print the contents of the current window.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "103",
         "subtitle": "Write a JavaScript program to get the current date.",
         "content": "Expected Output :\rmm-dd-yyyy, mm/dd/yyyy\ror dd-mm-yyyy, dd/mm/yyyy",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "104",
         "subtitle": "Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7. ",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "105",
         "subtitle": "Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "106",
         "subtitle": "Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "107",
         "subtitle": "Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "108",
         "subtitle": "Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message \"Good Work\" otherwise display a message \"Not matched\".",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "109",
         "subtitle": "Write a JavaScript program to calculate days left until next Christmas. ",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "110",
         "subtitle": "Write a JavaScript program to calculate multiplication and division of two numbers (input from user)",
         "content": "",
-        "image": "https://www.w3resource.com/w3r_images/sample-form.png"
+        "image_url": "https://www.w3resource.com/w3r_image_urls/sample-form.png"
     },
     {
         "title": "111",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "112",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "113",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "114",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "115",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "116",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "117",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "118",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "119",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "120",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "121",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "122",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "123",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "124",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "125",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "126",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "127",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "128",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "129",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "130",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "131",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "132",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "133",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "134",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "135",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "136",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "137",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "138",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "139",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "140",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "141",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "142",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "143",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "144",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "145",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "146",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "147",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "148",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "149",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     },
     {
         "title": "150",
         "subtitle": "",
         "content": "",
-        "image": ""
+        "image_url": ""
     }
 ]
